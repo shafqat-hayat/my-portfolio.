@@ -1,6 +1,4 @@
-Based on your latest screenshot showing your updated GitHub repository and the code in your `index.html`, here is a professional and comprehensive **README.md** you can add. This version includes the "About Me" section, your technical skills, and a visual gallery of your designs.
 
----
 
 # 🚀 Shafqat Hayat | Software Engineering Portfolio
 
